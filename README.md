@@ -29,5 +29,5 @@ There are two notebook files have been attached with details analysis!
 Before you run the both file please check and update the DB connection link with your DB username
 
 ```
-postgresql://postgres:Admin@localhost:5432/fraud_detection
+postgresql://postgres:<b>Admin</b>@localhost:5432/fraud_detection
 ```
