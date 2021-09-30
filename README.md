@@ -6,4 +6,4 @@ By inspecting these transactions, It can be noticed that frequency of several us
 
 This analysis has been done based on the data we have on our database and here you can find the Entity Relationship Diagram (ER Diagram) of the database
 
-![ER Diagram](https://github.com/chirathlv/Fraud-Detection/blob/main/Images/ER Diagram.PNG)
+![ER_Diagram](https://github.com/chirathlv/Fraud-Detection/blob/main/Images/ER_Diagram.PNG)
