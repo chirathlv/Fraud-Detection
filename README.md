@@ -29,3 +29,11 @@ There are two notebook files have been attached with details analysis!
 Before you run the both notebook files, please check and update the DB connection link with your DB username
 
 `postgresql://postgres:`<b>`Admin`</b>`@localhost:5432/fraud_detection`
+
+When comparing cardholder IDs 2 and 18, cardholder 18 consumption patten has unusual hikes which can potentially be fradulent transactions comparing to cardholder ID 2
+
+![consumption_pattern_2_18](https://github.com/chirathlv/Fraud-Detection/blob/main/Images/consumption_pattern_2_18.png)
+
+Also, cardholder ID 25 monthly transaction analysis indicates that there is one or two high unusual transaction being made on every month compared to the usual transaction activities on the same month which may not have yet been aware by the user
+
+![Analysis_for_Card_Holder_25](https://github.com/chirathlv/Fraud-Detection/blob/main/Images/Analysis_for_Card_Holder_25.png)
