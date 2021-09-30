@@ -14,4 +14,8 @@ In fact it is clear during the rest of the daytime, cardholders have made simila
 
 Part of the analysis, Here are some of the merchants prone to being hacked using small transactions
 
-![potential_merchants](https://github.com/chirathlv/Fraud-Detection/blob/main/Images/potential_merchants.PNG)
+:one: Wood-Ramirez
+:two: Hood-Phillips
+:three: Baker Inc
+:four: Jarvis-Turner
+:five: Sweeney-Paul
