@@ -26,7 +26,7 @@ Part of the analysis, Here are some of the merchants prone to being hacked using
 
 There are two notebook files have been attached with details analysis!
 
-Before you run the both notebook files, please check and update the DB connection link with your DB username
+:warning:Before run the both notebook files, please check and update the DB connection link with your DB username
 
 `postgresql://postgres:`<b>`Admin`</b>`@localhost:5432/fraud_detection`
 
