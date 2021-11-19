@@ -1,4 +1,4 @@
-![Winelist Corporation](https://github.com/chirathlv/Fraud-Detection/blob/main/Images/banner.jpg)
+![Fraud Detection](https://github.com/chirathlv/Fraud-Detection/blob/main/Images/banner.jpg)
 
 # Fraud Detection
 
