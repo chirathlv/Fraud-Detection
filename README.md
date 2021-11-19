@@ -1,3 +1,5 @@
+![Winelist Corporation](https://github.com/chirathlv/Project-Winelist/blob/main/Images/wine.jpg)
+
 # Fraud Detection
 
 Some fraudsters hack a credit card by making several small transactions (generally less than $2.00), which are typically ignored by cardholders.
